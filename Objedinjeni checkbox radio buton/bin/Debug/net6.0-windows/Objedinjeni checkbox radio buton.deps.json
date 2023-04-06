@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Objedinjeni checkbox radio buton/1.0.0": {
+        "runtime": {
+          "Objedinjeni checkbox radio buton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Objedinjeni checkbox radio buton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
